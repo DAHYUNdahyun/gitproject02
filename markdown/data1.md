@@ -1,3 +1,3 @@
-[홈으로](README.md)
+[홈으로](../README.md)
 
 # markdown-data1.md
